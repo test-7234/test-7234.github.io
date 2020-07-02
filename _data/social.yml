@@ -1,5 +1,5 @@
 - sitename: GitHub
-  name: mzlogin
+  name: Offene
   url: https://github.com/Offene
 
 # - sitename: 掘金
@@ -18,9 +18,9 @@
 #   name: mzlogin
 #   url: http://weibo.com/mzlogin
 
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/Offene
+# - sitename: 知乎
+#   name: mzlogin
+#   url: http://www.zhihu.com/people/Offene
 
 # - sitename: 豆瓣
 #   name: 壮哥不胖
