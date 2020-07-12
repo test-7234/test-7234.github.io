@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Linux笔记之管理硬盘
-categories: Linux1
+categories: Linux
 description: 在路由器上简单的管理硬盘
-keywords: Linux
+keywords: Linux1
 ---
 >这事源于一个薅羊毛来的sd卡，因为原来的主路由上是带sd卡的，这玩意薅回来也算是有用，但是主路由换了以后就没啥卵用了，早段时间闲的蛋疼就买了个读卡器回来换个路由接着用，从博通又回到了MTK的怀抱，但是经常性会出现挂载不上的问题，才写的这篇闲着蛋疼的教程
 
