@@ -24,6 +24,7 @@ keywords: Linux
 用过 openwrt 的肯定熟悉，但是梅林上因为有自带的软件中心，应该很少会在梅林上用这个，在梅林上一般都有都要自行安装opkg，可以尝试`opkg update`
 ![image.png](http://ww1.sinaimg.cn/large/006H9iLngy1ggog3peramj30ir0bt3yv.jpg)
 
+
 要是显示这样的就是已经安装了就可以直接跳过了，要是不是这样就接着看吧
 
 先创建安装目录
